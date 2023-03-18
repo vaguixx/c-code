@@ -1,0 +1,4 @@
+﻿  zuoye5.c
+E:\dev\code\作业\作业\zuoye5.c(23,2): warning C4013: “gets”未定义；假设外部返回 int
+E:\dev\code\作业\作业\zuoye5.c(25,12): warning C4013: “strlen”未定义；假设外部返回 int
+  作业.vcxproj -> E:\dev\code\作业\x64\Debug\作业.exe
